@@ -9,9 +9,9 @@ env:
   GIT_CLONE_URL: https://github.com/ashimov/vyos-build
   BRANCH: sagitta
   ARCHITECTURE: amd64
-  BUILD_BY: berik@ashimov.com
+  BUILD_BY: wuhao0015@qq.com
   BUILD_TYPE: release
-  VERSION: 1.4-lts
+  VERSION: 1.4-lts-20240616
   DEBIAN_MIRROR: http://ftp.us.debian.org/debian/
   VYOS_MIRROR: http://5.63.112.27/sagitta
   APT_KEY_URL: http://5.63.112.27/apt.gpg.key
