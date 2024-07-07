@@ -11,7 +11,7 @@ env:
   ARCHITECTURE: amd64
   BUILD_BY: wuhao0015@qq.com
   BUILD_TYPE: release
-  VERSION: 1.4-20240617
+  VERSION: 1.4-20240707
   DEBIAN_MIRROR: http://ftp.us.debian.org/debian/
   VYOS_MIRROR: http://5.63.112.27/sagitta
   APT_KEY_URL: http://5.63.112.27/apt.gpg.key
